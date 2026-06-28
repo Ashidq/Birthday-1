@@ -105,7 +105,7 @@ export const config = {
       artist: 'Nuh...',
       duration: '3:16',
       cover: '/images/mia.jpg',
-      url: '/music/teruntuk-mia.mp3',
+      url: '/music/Teruntuk-Mia.mp3',
     },
   ],
 
