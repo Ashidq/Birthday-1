@@ -29,14 +29,14 @@ export const config = {
   // === JOURNEY / TIMELINE ===
   journey: [
     {
-      year: '2024',
+      year: '2025',
       title: 'First Time We Met',
       description: 'Awal dari cerita kita dimulai. Saat pertama kali melihatmu, kamu menarik perhatianku.',
       emoji: '⛰️',
       image: '/images/journey-1.webp', // Ganti dengan foto asli
     },
     {
-      year: '2024',
+      year: '2025',
       title: 'Our First Date',
       description: 'Momen yang tidak akan pernah aku lupakan. Kamu tersenyum dan duniaku berubah.',
       emoji: '💨',
